@@ -1,0 +1,3 @@
+# PyQT6 Calculator (WIP)
+Calculator again, but this time with visual.\
+Hopefully it works...
